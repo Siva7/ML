@@ -17,4 +17,4 @@ if (x*x + y*y < 1) 1 else 0
 println("Pi is roughly " + 4.0 * count / n)
 spark.stop()
 }
-} 
+}   
